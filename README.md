@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Linux**
 
+- 🧑‍🎓 I’m an Undergraduate at **KIU** 
+
 - 💬 Ask me about **Linux**
 
 - 📫 How to reach me **madushanraa@gmail.com**
