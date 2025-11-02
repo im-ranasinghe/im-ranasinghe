@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asanka Madhushan</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-
+<h3 align="center">💻 Network and Security Engineer | 🔐 Cybersecurity Enthusiast | 🌐 Network Explorer<br>
+  🎓  KIU Sri Lanka | Lifelong Learner</h3>
+  
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=im-ranasinghe&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=im-ranasinghe&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ranasinghe&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=im-ranasinghe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
