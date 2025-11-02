@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asanka Madhushan</h1>
-<h3 align="center">A passionate Network and Security Engineer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=im-ranasinghe&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=im-ranasinghe&theme=tokyonight) |
 | --- | --- |
